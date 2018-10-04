@@ -1,2 +1,4 @@
 # Publish
-CV, transcript and other documents for HR or other relevant people
+* CV, transcript for HR or other relevant people
+* Public keys
+
